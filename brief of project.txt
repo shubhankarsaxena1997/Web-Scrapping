@@ -1,0 +1,3 @@
+The Amazon price tracker project is basically a price tracker bot that will notify you by email when a particular product selected by you will come in your budget,
+
+Suppose product A is of $500 today and you want to by that product when the price will decrease til $350, so you just have to give the link of proudct and price on which you want to buy, rest it will track the product daily and once the product will come on $350, it will email you that product is now in your budget   
